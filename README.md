@@ -59,4 +59,5 @@ for(int seg=0;seg<segments;seg++){
 ```
 
 Node Tree:
+
 <img src="Images/Node Tree.png">
